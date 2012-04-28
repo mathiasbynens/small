@@ -1,1 +1,1 @@
-class A{public static void Main(){}}
+class A{static void Main(){}}
