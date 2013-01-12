@@ -1,0 +1,1 @@
+package main;func main(){};
