@@ -1,0 +1,1 @@
+procedure A is begin A;end;
