@@ -1,1 +1,1 @@
-package main;func main(){}
+package a
