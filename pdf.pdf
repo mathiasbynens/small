@@ -1,34 +1,5 @@
-%PDF-1.2
-9 0 obj
-<<
->>
-stream
-BT/ 9 Tf()' ET
-endstream
-endobj
-4 0 obj
-<<
-/Type /Page
-/Parent 5 0 R
-/Contents 9 0 R
->>
-endobj
-5 0 obj
-<<
-/Kids [4 0 R ]
-/Count 1
-/Type /Pages
-/MediaBox [ 0 0 99 9 ]
->>
-endobj
-3 0 obj
-<<
-/Pages 5 0 R
-/Type /Catalog
->>
-endobj
-trailer
-<<
-/Root 3 0 R
->>
-%%EOF
+%PDF-1.
+1 0 obj<</Pages 2 0 R>>endobj
+2 0 obj<</Kids[3 0 R]/Count 1>>endobj
+3 0 obj<</Parent 2 0 R>>endobj
+trailer <</Root 1 0 R>>
