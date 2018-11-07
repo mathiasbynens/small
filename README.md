@@ -15,6 +15,8 @@ To the extent possible under law, the author has waived all copyright and relate
 ## File types
 
 ### Archives
+- [bzip2 .bz2](BZip2.bz2)
+- [gzip .gz](gzip.gz) [with a filename](gzip-name.gz)
 - [Tape archive .tar](tar.tar)
 - [ZIP .zip](zip.zip)
 
