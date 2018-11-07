@@ -15,6 +15,7 @@ To the extent possible under law, the author has waived all copyright and relate
 ## File types
 
 ### Archives
+- [Tape archive .tar](tar.tar)
 - [ZIP .zip](zip.zip)
 
 ### Audio
