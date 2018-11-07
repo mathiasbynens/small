@@ -42,7 +42,8 @@ To the extent possible under law, the author has waived all copyright and relate
 
 ### Graphics
 - [Bitmap image file/Device Independent Bitmap .bmp](bmp.bmp)
-- [Better Portable Graphics .BPG](bpg.bpg)
+- [Better Portable Graphics .bpg](bpg.bpg)
+- [DICOM/Digital Imaging and Communications in Medicine .dcm](dicom.dcm)
 - [Graphics Interchange Format .gif](gif.gif) [(transparent)](gif-transparent.gif)
 - [Portable Network Graphics .png](png-transparent.png)
 - [ICO file format .ico/.cur](ico.ico)
