@@ -50,7 +50,7 @@ To the extent possible under law, the author has waived all copyright and relate
 - [JPEG File Interchange Format .jpg/.jpeg](jpeg.jpg)
 - [JPEG 2000 .jp2](jpeg2.jp2)
 - Netpbm [Portable BitMap Format .pbm](pbm.pbm) [(binary)](pbmb.pbm) [Portable GrayMap Format .pgm](pgm.pgm) [(binary)](pgmb.pgm) [Portable PixMap Format .ppm](ppm.ppm) [(binary)](ppmb.ppm)
-- [Portable Network Graphics .png](png-transparent.png)
+- [Portable Network Graphics .png](png-transparent.png) [(truncated)](png-truncated.png)
 - [Tagged Image File Format .tif](tiff.tif)
 - [Truevision Advanced Raster Graphics Adapter/TARGA .tga](targa.tga)
 - [WebP .webp](webp.webp)
