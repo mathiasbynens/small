@@ -26,6 +26,7 @@ To the extent possible under law, the author has waived all copyright and relate
 - [Waveform Audio File Format .wav](wav.wav)
 
 ### Documents
+- [Compiled HTML help .chm](compiledhtml.chm)
 - [Portable Document Format .pdf](pdf.pdf)
 - [Rich Text Format .rtf](rtf.rtf)
 - [Window Metafile .wmf](WindowsMetafile.wmf)
