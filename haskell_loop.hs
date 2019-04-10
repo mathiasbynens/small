@@ -1,1 +1,1 @@
-main=main
+m@main=m
