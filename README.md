@@ -99,6 +99,8 @@ To the extent possible under law, the author has waived all copyright and relate
 - Extensible Hypertext Markup Language .xhtml [(basic-1.0)](xhtml-basic-1.0.xhtml) [(1.0-frameset)](xhtml-1.0-frameset.html) [(1.0-strict)](xhtml-1.0-strict.xhtml) [(1.1)](xhtml-1.1.xhtml) [(basic-1.1)](xhtml-basic-1.1.xhtml) [(5)](xhtml5.xhtml)
 - Extensible Markup Language XML [1.0](xml-1.0.xml) [(valid)](xml-1.0-valid.xml) [1.1](xml-1.1.xml) [(1.1-valid)](xml-1.1-valid.xml)
 - Hypertext Markup Language [(2.0)](html-2.0.html) [(3.2)](html-3.2.html) [(4.0-strict)](html-4.0-strict.html) [(4.01-strict)](html-4.01-strict.html) [(4.01-frameset)](html-4.01-frameset.html) [(4.01-transitional)](html-4.01-transitional.html) [(5)](html5.html) [iso-html](iso-html.html)
+- [Comma Separated Values .csv](csv.csv)
+- [Tab Separated Values .tsv](tsv.tsv)
 
 ### Video
 - [Audio Video Interleave .avi](AudioVideoInterleave.avi)
