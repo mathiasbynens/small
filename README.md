@@ -114,6 +114,7 @@ To the extent possible under law, the author has waived all copyright and relate
 - [Cascading Style Sheets .css](css.css)
 - [eiffel](eiffel.e)
 - [elixir](elixir.ex)
+- [git commit](https://github.com/mathiasbynens/small/commit/c01026341fbc60f0e300f93b8356c38b69efb517)
 - [groovy](groovy.groovy)
 - [haskell_loop](haskell_loop.hs)
 - [haskell_term](haskell_term.hs)
