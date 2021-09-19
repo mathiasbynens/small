@@ -1,0 +1,7 @@
+diff --git c.c c.c
+index f7fb591..c61f0be 100644
+--- c.c
++++ c.c
+@@ -1 +1 @@
+-int main;
++lint main;
