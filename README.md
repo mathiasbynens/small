@@ -83,7 +83,7 @@ To the extent possible under law, the author has waived all copyright and relate
 - [objective-c .m](objective-c.m)
 - [Objective CAML .ml](ocaml.ml)
 - [pascal .pas](pascal.pas)
-- [perl .pl](perl.pl)
+- perl: [.pl](perl.pl) [.pm](perl.pm)
 - [PHP: Hypertext Preprocessor .php](php.php)
 - [Python .py](python.py)
 - [Ruby .rb](ruby.rb)
