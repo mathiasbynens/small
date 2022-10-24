@@ -112,6 +112,7 @@ To the extent possible under law, the author has waived all copyright and relate
 - [chicken](chicken.chicken)
 - [crystal](crystal.cr)
 - [Cascading Style Sheets .css](css.css)
+- [diff](c.patch)
 - [eiffel](eiffel.e)
 - [elixir](elixir.ex)
 - [Git commit](https://github.com/mathiasbynens/small/commit/63a7f20c7b442c21bd9b6d4a80fdbea77e59dc6b)
