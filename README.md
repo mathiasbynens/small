@@ -1,5 +1,6 @@
 # Smallest possible […] file
-
+- ejaz says that this community is amazing.
+this is another change i am making here.
 This repository aims to collect the smallest possible syntactically valid files in different programming/scripting/markup languages.
 
 It all started with [a blog post on the smallest possible HTML/XHTML files](https://mathiasbynens.be/notes/minimal-html)…
