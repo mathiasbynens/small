@@ -47,7 +47,7 @@ To the extent possible under law, the author has waived all copyright and relate
 - [DICOM/Digital Imaging and Communications in Medicine .dcm](dicom.dcm)
 - [Graphics Interchange Format .gif](gif.gif) [(transparent)](gif-transparent.gif)
 - [High Efficiency Image File](heic.heif)
-- [ICO file format .ico/.cur](ico.ico)
+- [ICO file format .ico](ico.ico) ([.cur](cursor.cur))
 - [JPEG File Interchange Format .jpg/.jpeg](jpeg.jpg)
 - [JPEG 2000 .jp2](jpeg2.jp2)
 - Netpbm [Portable BitMap Format .pbm](pbm.pbm) [(binary)](pbmb.pbm) [Portable GrayMap Format .pgm](pgm.pgm) [(binary)](pgmb.pgm) [Portable PixMap Format .ppm](ppm.ppm) [(binary)](ppmb.ppm)
