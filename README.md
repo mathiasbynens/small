@@ -15,7 +15,7 @@ To the extent possible under law, the author has waived all copyright and relate
 ## File types
 
 ### Archives
-- [bzip2 .bz2](BZip2.bz2)
+- [bzip2 .bz2](bzip2.bz2)
 - [gzip .gz](gzip.gz) [with a filename](gzip-name.gz)
 - Roshal archive .rar [1.4](rar14.rar) [4](rar4.rar) [5](rar5.rar)
 - [Tape archive .tar](tar.tar)
